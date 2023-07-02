@@ -125,8 +125,10 @@ run ```killall python3```  in new terminal
 
 ### Final Output
 
-![Demo](asset/demo.gif)
 
----
 
-<img src="/asset/footer.png"/>
+https://github.com/sarthak-tirpude/Twitter-Hashtag-streaming-/assets/76950603/d01862e9-3e81-49b6-8214-a19436e44ced
+
+![demo](https://github.com/sarthak-tirpude/Twitter-Hashtag-streaming-/assets/76950603/f71b57dc-daee-497b-84ee-c233f7fe18b1)
+
+
